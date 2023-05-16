@@ -16,7 +16,7 @@ int main()
 		adjMat[u][v] = 1;
 		adjMat[v][u] = 1;
 		// for a directed graph with an edge pointing from u
-		// to v,we just assign adjMat[u][v] as 1
+		// to V,we just assign adjMat[u][v] as 1
 	}
     for(int i = 0; i < n; i++) 
     {
