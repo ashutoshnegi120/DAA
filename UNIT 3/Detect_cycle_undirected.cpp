@@ -1,8 +1,7 @@
 // A C++ Program to detect
 // cycle in an undirected graph
-#include <iostream>
-#include <limits.h>
-#include <list>
+#include "bits/stdc++.h"
+
 using namespace std;
 
 // Class for an undirected graph
